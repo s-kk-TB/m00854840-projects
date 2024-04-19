@@ -1,0 +1,79 @@
+@font-face {
+    font-family: firminDidot;
+    src: url("./OPTIFirminDidot.otf");
+  }
+  
+@font-face {
+    font-family: theSignature;
+    src: url("./Thesignature.otf");
+}
+
+@font-face {
+    font-family: betaBold12;
+    src: url("./Serif12Beta-Bold.otf");
+}
+
+@font-face {
+    font-family: betaBoldItalic12;
+    src: url('./Serif12Beta-BoldItalic.otf');
+}
+
+@font-face {
+    font-family: betaItalic12;
+    src: url('./Serif12Beta-Italic.otf');
+}
+
+@font-face {
+    font-family: betaRegular12;
+    src: url('./Serif12Beta-Regular.otf');
+}
+
+@font-face {
+    font-family: betaBold6;
+    src: url('./Serif6Beta-Bold.otf');
+}
+
+@font-face {
+    font-family: betaBoldItalic6;
+    src: url('./Serif6Beta-BoldItalic.otf');
+}
+
+@font-face {
+    font-family: betaItalic6;
+    src: url('./Serif6Beta-Italic.otf');
+}
+
+@font-face {
+    font-family: betaRegular6;
+    src: url('./Serif6Beta-Regular.otf');
+}
+
+@font-face {
+    font-family: betaBlack;
+    src: url('./Serif72Beta-Black.otf');
+}
+
+@font-face {
+    font-family: betaBlackItalic;
+    src: url('./Serif72Beta-BlackItalic.otf');
+}
+
+@font-face {
+    font-family: betaBlackBold;
+    src: url('./Serif72Beta-Bold.otf');
+}
+
+@font-face {
+    font-family: betaBlackBoldItalic;
+    src: url('./Serif72Beta-BoldItalic.otf');
+}
+
+@font-face {
+    font-family: betaItalic72;
+    src: url('./Serif72Beta-Italic.otf');
+}
+
+@font-face {
+    font-family: betaRegular72;
+    src: url('./Serif72Beta-Regular.otf');
+}
